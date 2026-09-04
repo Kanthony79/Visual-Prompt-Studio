@@ -18,3 +18,8 @@ Texture: Texture is how something feels. In my poster, the robot's head looks sm
 Volume: Volume means something looks solid and rounded. In my poster, the robot's head looks like a ball.
 
 Contrast: Contrast is putting two different things together to make them stand out.  The yellow and orange colors shout loudly to our eyes.
+
+Handwritten Reflection
+
+<img width="3024" height="4032" alt="IMG_9060" src="https://github.com/user-attachments/assets/c728057e-f3b6-48b9-8c94-c9dc90fb900d" />
+<img width="3024" height="4032" alt="IMG_9061" src="https://github.com/user-attachments/assets/e5499b29-8f6a-492b-9690-13ddbeeda38a" />
